@@ -1,5 +1,5 @@
 <h1 align="center">Project One Stop Service Information : Kekayaan Sumber Daya Alam Non Hayati Indonesia</h1>
-<h3 align="center">Semester Genap - S1 Sains Data UNS Tahun Ajaran 2023/2024</h3>
+<h3 align="center">Perancangan dan Implementasi Basis Data - S1 Sains Data UNS Semester Genap Tahun Ajaran 2023/2024</h3>
 
 <br>
 <p align="right"> <h3>Anggota Kelompok Project:</h3> 
