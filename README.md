@@ -22,7 +22,7 @@
       alt="php" width="40" height="40"/> 
   </a>
   <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
-    <img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png"
+    <img src="https://wakatime.com/static/img/editor-icons/sql-server-management-studio-128.png"
       alt="ssms" width="80" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
