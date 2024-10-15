@@ -21,9 +21,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
       alt="php" width="40" height="40"/> 
   </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg"
-      alt="azure" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Azure_Data_Studio_Logo.svg"
+      alt="azure-data-studio" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
