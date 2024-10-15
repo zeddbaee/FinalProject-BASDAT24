@@ -22,7 +22,7 @@
       alt="php" width="40" height="40"/> 
   </a>
   <a href="https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Azure_Data_Studio_Logo.svg"
+    <img src="https://img.icons8.com/fluency/48/000000/azure-data-studio.png" 
       alt="azure-data-studio" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
