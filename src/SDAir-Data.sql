@@ -56,7 +56,7 @@ INSERT INTO WILAYAH (Id_Wilayah, Nama_Wilayah) VALUES
 ('W-35', 'Papua'),
 ('W-36', 'Papua Tengah'),
 ('W-37', 'Papua Selatan'),
-('W-38', 'Papua�Barat�Daya');
+('W-38', 'Papua Barat Daya');
 
 
 INSERT INTO LEMBAGA_PENGELOLA (Id_LP, Nama_LP, Jalan, Kota) VALUES
@@ -185,7 +185,7 @@ INSERT INTO SUMBER_AIR (Id_SA, Nama_SA, Lokasi_SA, Jenis_SA, Id_Wilayah, Id_LP) 
 ('SA-111', 'Sumur Asmat', 'Kabupaten Asmat', 'Air Tanah', 'W-37', 'LP-010'),
 ('SA-112', 'Sungai Memberamo', 'Kota Jayapura', 'Sungai', 'W-38', 'LP-010'),
 ('SA-113', 'Danau Sentani', 'Kabupaten Jayapura', 'Danau', 'W-38', 'LP-010'),
-('SA-114', 'Sumur Sarmi', 'Kabupaten Sarmi', 'Air Tanah', 'W-38',�'LP-010');
+('SA-114', 'Sumur Sarmi', 'Kabupaten Sarmi', 'Air Tanah', 'W-38', 'LP-010');
 
 INSERT INTO PENGGUNAAN_AIR (Id_PA, Nama_PA, Volume, Jenis_PA, Id_SA) VALUES 
 ('PA-001', 'Rumah Tangga', 50, 'Domestik', 'SA-010'),
